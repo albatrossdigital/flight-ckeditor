@@ -1,5 +1,7 @@
-CKEditor 4
-==========
+CKEditor 4 for Flight
+=====================
+
+This is forked from <https://github.com/ckeditor/ckeditor-presets> for use with the Drupal Flight installation profile <https://www.drupal.org/project/flight>.
 
 Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.  
 http://ckeditor.com - See LICENSE.md for license information.
