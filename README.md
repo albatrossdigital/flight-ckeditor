@@ -3,7 +3,10 @@ CKEditor 4 for Flight
 
 This is forked from <https://github.com/ckeditor/ckeditor-presets> for use with the Drupal Flight installation profile <https://www.drupal.org/project/flight>.
 
+# Documentation from Original CKEditor package
+
 Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.  
+
 http://ckeditor.com - See LICENSE.md for license information.
 
 CKEditor is a text editor to be used inside web pages. It's not a replacement
